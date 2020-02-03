@@ -7,10 +7,11 @@ import './navbar.css'
 
 const NavbarMenu = () => (
     <Navbar>
-        <Link to="/"><Navbar.Brand><img src={AlbatrossFlag} alt="The flag of Airship Albatross" width="50px" height="50px" /></Navbar.Brand></Link>
+        <Link to="/"><Navbar.Brand><img src={AlbatrossFlag} alt="The flag of Airship Albatross." width="50px" height="50px" /></Navbar.Brand></Link>
         <Nav className="ml-auto">
             <Link to="/"><button className="p-2">Home</button></Link>
             <Link to="/crew"><button className="p-2 ml-3" >Crew</button></Link>
+            <Link to="/photos"><button className="p-2 ml-3">Photos</button></Link>
         </Nav>
     </Navbar>
 );
