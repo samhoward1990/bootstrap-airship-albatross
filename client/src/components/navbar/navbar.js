@@ -1,19 +1,26 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import { Navbar, Nav } from 'react-bootstrap';
+import { Nav, Image } from 'react-bootstrap';
 
-import AlbatrossFlag from '../../images/airship-albatross-flag.jpg';
+
 import './navbar.css'
+import AlbatrossFlag from '../../images/airship-albatross-flag.jpg';
 
 const NavbarMenu = () => (
-    <Navbar>
-        <Link to="/"><Navbar.Brand><img src={AlbatrossFlag} alt="The flag of Airship Albatross." width="50px" height="50px" /></Navbar.Brand></Link>
-        <Nav className="ml-auto">
-            <Link to="/"><button className="p-2">Home</button></Link>
-            <Link to="/crew"><button className="p-2 ml-3" >Crew</button></Link>
-            <Link to="/photos"><button className="p-2 ml-3">Photos</button></Link>
-        </Nav>
-    </Navbar>
+    <Nav className="d-flex justify-content-center m-3">
+        <Nav.Item>
+            <Link to="/"><button>Home</button></Link>
+        </Nav.Item>
+        <Nav.Item>
+            <Link to="/crew"><button>Crew</button></Link>
+        </Nav.Item>
+        <Nav.Item>
+            <Link to="/photos"><button>Photos</button></Link>
+        </Nav.Item>
+        <Nav.Item>
+            <Link to="/contact"><button>Contact</button></Link>
+        </Nav.Item>
+    </Nav>
 );
 
 export default NavbarMenu;
