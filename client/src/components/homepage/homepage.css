@@ -6,3 +6,13 @@
  .styled-header {
         font-family: "bleedingcowboy";
  }
+
+ .flag-bg {
+        background-image: url("../../images/clouds.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+ }
+
+ .flag-border {
+        border-image: url("../../images/steampunk-border-png-6-transparent.png") 0 fill;
+ }
