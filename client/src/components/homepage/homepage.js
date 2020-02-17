@@ -6,10 +6,10 @@ import Crew from '../../images/airship-crew.jpg';
 import AlbatrossFlag from '../../images/airship-albatross-flag.jpg';
 const Homepage = () => (
     <div>
-        <div className="d-flex justify-content-center flag-border flag-bg">
-            <Image src={AlbatrossFlag} className="m-5" width="200px" height="200px" alt=" Airship Albatross Flag" />
-        </div>
         <Container>
+            <div className="d-flex justify-content-center flag-border flag-bg">
+                <Image src={AlbatrossFlag} className="m-5" width="200px" height="200px" alt=" Airship Albatross Flag" />
+            </div>
             <Row>
                 <Col xs="12" className="d-flex justify-content-center">
                     <h1 className="styled-header m-4">Welcome Steampunks!</h1>
