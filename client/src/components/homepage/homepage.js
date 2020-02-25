@@ -8,7 +8,7 @@ const Homepage = () => (
     <div>
         <Container>
             <div className="d-flex justify-content-center flag-border flag-bg">
-                <Image src={AlbatrossFlag} className="m-5" width="200px" height="200px" alt=" Airship Albatross Flag" />
+                <Image src={AlbatrossFlag} className="m-5" width="auto" height="200px" alt=" Airship Albatross Flag" />
             </div>
             <Row>
                 <Col xs="12" className="d-flex justify-content-center">
