@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e5c4cce4.chunk.css",
+    "main.js": "/static/js/main.be069ee9.chunk.js",
+    "main.js.map": "/static/js/main.be069ee9.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.cea588d5.js",
+    "runtime-main.js.map": "/static/js/runtime-main.cea588d5.js.map",
+    "static/css/2.47e06e2e.chunk.css": "/static/css/2.47e06e2e.chunk.css",
+    "static/js/2.bb897811.chunk.js": "/static/js/2.bb897811.chunk.js",
+    "static/js/2.bb897811.chunk.js.map": "/static/js/2.bb897811.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.6dac9f1f6d83102b15e88d5f91db4583.js": "/precache-manifest.6dac9f1f6d83102b15e88d5f91db4583.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.47e06e2e.chunk.css.map": "/static/css/2.47e06e2e.chunk.css.map",
+    "static/css/main.e5c4cce4.chunk.css.map": "/static/css/main.e5c4cce4.chunk.css.map",
+    "static/js/2.bb897811.chunk.js.LICENSE.txt": "/static/js/2.bb897811.chunk.js.LICENSE.txt",
+    "static/media/homepage.css": "/static/media/gear-border.a0361cf6.png",
+    "static/media/airship-albatross-flag.jpg": "/static/media/airship-albatross-flag.091c6e5d.jpg",
+    "static/media/airship-crew.jpg": "/static/media/airship-crew.fa2cf7f4.jpg",
+    "static/media/App.css": "/static/media/parchment-background.540dbaa5.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cea588d5.js",
+    "static/css/2.47e06e2e.chunk.css",
+    "static/js/2.bb897811.chunk.js",
+    "static/css/main.e5c4cce4.chunk.css",
+    "static/js/main.be069ee9.chunk.js"
+  ]
+}

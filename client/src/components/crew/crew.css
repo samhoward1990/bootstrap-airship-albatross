@@ -1,0 +1,10 @@
+.card-content {
+    background-color: #f1d592;
+    background-image: url('../../images/manila-folder.png');
+    background-size: cover;
+}
+
+.card-title {
+    font-size: 22px;
+    font-weight: bold;
+}
