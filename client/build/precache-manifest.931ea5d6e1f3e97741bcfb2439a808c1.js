@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0ba7ef29f2032a3b9dea095ca04f4586",
+    "revision": "0fbdcfd7e06639a93303ef41f80bd7a9",
     "url": "/index.html"
   },
   {
-    "revision": "aa00a146cf3f56d29f2f",
+    "revision": "1d6baed433ed19c27b4e",
     "url": "/static/css/2.47e06e2e.chunk.css"
   },
   {
-    "revision": "71b82fd4f50aa6b88bdf",
-    "url": "/static/css/main.e5c4cce4.chunk.css"
+    "revision": "3f6992962a6e87b6312e",
+    "url": "/static/css/main.4236b6e5.chunk.css"
   },
   {
-    "revision": "aa00a146cf3f56d29f2f",
-    "url": "/static/js/2.bb897811.chunk.js"
+    "revision": "1d6baed433ed19c27b4e",
+    "url": "/static/js/2.9d96ca8a.chunk.js"
   },
   {
     "revision": "bf23039b4e70a07c5aeb1b4010df3572",
-    "url": "/static/js/2.bb897811.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.9d96ca8a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "71b82fd4f50aa6b88bdf",
-    "url": "/static/js/main.be069ee9.chunk.js"
+    "revision": "3f6992962a6e87b6312e",
+    "url": "/static/js/main.8285258a.chunk.js"
   },
   {
     "revision": "5d93c6b2d15332364552",
@@ -40,15 +40,19 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/airship-crew.fa2cf7f4.jpg"
   },
   {
-    "revision": "0d5818697c2a6d356c561dc24061949d",
-    "url": "/static/media/clouds.0d581869.jpg"
+    "revision": "7c875bcb89ef054de595f31491f6f048",
+    "url": "/static/media/captain-in-jail.7c875bcb.jpg"
   },
   {
-    "revision": "a0361cf6892c45feba5c832a3a6c75a9",
-    "url": "/static/media/gear-border.a0361cf6.png"
+    "revision": "e59a6cf890758ff8c4563d50a171ea3b",
+    "url": "/static/media/crew-at-spn.e59a6cf8.jpg"
   },
   {
     "revision": "540dbaa5b22193724cfbbc367ce4a64a",
     "url": "/static/media/parchment-background.540dbaa5.jpg"
+  },
+  {
+    "revision": "77b411acba3eeba1578de7a33526ccf3",
+    "url": "/static/media/tiff-ben-josh.77b411ac.jpg"
   }
 ]);

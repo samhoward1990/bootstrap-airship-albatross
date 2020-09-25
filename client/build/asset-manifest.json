@@ -1,29 +1,32 @@
 {
   "files": {
-    "main.css": "/static/css/main.e5c4cce4.chunk.css",
-    "main.js": "/static/js/main.be069ee9.chunk.js",
-    "main.js.map": "/static/js/main.be069ee9.chunk.js.map",
+    "main.css": "/static/css/main.4236b6e5.chunk.css",
+    "main.js": "/static/js/main.8285258a.chunk.js",
+    "main.js.map": "/static/js/main.8285258a.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.cea588d5.js",
     "runtime-main.js.map": "/static/js/runtime-main.cea588d5.js.map",
     "static/css/2.47e06e2e.chunk.css": "/static/css/2.47e06e2e.chunk.css",
-    "static/js/2.bb897811.chunk.js": "/static/js/2.bb897811.chunk.js",
-    "static/js/2.bb897811.chunk.js.map": "/static/js/2.bb897811.chunk.js.map",
+    "static/js/2.9d96ca8a.chunk.js": "/static/js/2.9d96ca8a.chunk.js",
+    "static/js/2.9d96ca8a.chunk.js.map": "/static/js/2.9d96ca8a.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.6dac9f1f6d83102b15e88d5f91db4583.js": "/precache-manifest.6dac9f1f6d83102b15e88d5f91db4583.js",
+    "precache-manifest.931ea5d6e1f3e97741bcfb2439a808c1.js": "/precache-manifest.931ea5d6e1f3e97741bcfb2439a808c1.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.47e06e2e.chunk.css.map": "/static/css/2.47e06e2e.chunk.css.map",
-    "static/css/main.e5c4cce4.chunk.css.map": "/static/css/main.e5c4cce4.chunk.css.map",
-    "static/js/2.bb897811.chunk.js.LICENSE.txt": "/static/js/2.bb897811.chunk.js.LICENSE.txt",
-    "static/media/homepage.css": "/static/media/gear-border.a0361cf6.png",
+    "static/css/main.4236b6e5.chunk.css.map": "/static/css/main.4236b6e5.chunk.css.map",
+    "static/js/2.9d96ca8a.chunk.js.LICENSE.txt": "/static/js/2.9d96ca8a.chunk.js.LICENSE.txt",
+    "static/media/homepage.css": "/static/media/Bleeding_Cowboys.23a51e7a.ttf",
     "static/media/airship-albatross-flag.jpg": "/static/media/airship-albatross-flag.091c6e5d.jpg",
     "static/media/airship-crew.jpg": "/static/media/airship-crew.fa2cf7f4.jpg",
-    "static/media/App.css": "/static/media/parchment-background.540dbaa5.jpg"
+    "static/media/captain-in-jail.jpg": "/static/media/captain-in-jail.7c875bcb.jpg",
+    "static/media/crew-at-spn.jpg": "/static/media/crew-at-spn.e59a6cf8.jpg",
+    "static/media/App.css": "/static/media/parchment-background.540dbaa5.jpg",
+    "static/media/tiff-ben-josh.jpg": "/static/media/tiff-ben-josh.77b411ac.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.cea588d5.js",
     "static/css/2.47e06e2e.chunk.css",
-    "static/js/2.bb897811.chunk.js",
-    "static/css/main.e5c4cce4.chunk.css",
-    "static/js/main.be069ee9.chunk.js"
+    "static/js/2.9d96ca8a.chunk.js",
+    "static/css/main.4236b6e5.chunk.css",
+    "static/js/main.8285258a.chunk.js"
   ]
 }
