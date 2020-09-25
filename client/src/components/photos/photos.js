@@ -16,7 +16,6 @@ class Photos extends React.Component {
         this.setState({ show: true });
         let target = e.target
         this.setState({ imgSrc: target.getAttribute("src") });
-        console.log(target);
     }
     handleClose = () => {
         this.setState({ show: false });
