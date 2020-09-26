@@ -27,13 +27,13 @@ class Photos extends React.Component {
                 <Container>
                     <Row className="mt-5">
                         <Col className="m-3" lg="3">
-                            <Image src={crewAtSpn} onClick={this.handleOpen} width="300px" height="250px" />
+                            <Image className="cropped" src={crewAtSpn} onClick={this.handleOpen} />
                         </Col>
                         <Col className="m-3" lg="3">
-                            <Image src={tiffBenAndJosh} onClick={this.handleOpen} width="300px" height="250px" />
+                            <Image className="cropped" src={tiffBenAndJosh} onClick={this.handleOpen} />
                         </Col>
                         <Col className="m-3" lg="3">
-                            <Image src={captainInJail} onClick={this.handleOpen} width="300px" height="250px" />
+                            <Image className="cropped" src={captainInJail} onClick={this.handleOpen} />
                         </Col>
                     </Row>
                 </Container>
