@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React from 'react';
 import { Container, Row, Col, Image, Modal, } from 'react-bootstrap';
 import './photos.css'
 
@@ -26,18 +26,21 @@ class Photos extends React.Component {
             <>
                 <Container>
                     <Row className="mt-5">
-                        <Col lg="3">
-                            <Image src={crewAtSpn} onClick={this.handleOpen} fluid />
+                        <Col className="m-3" lg="3">
+                            <Image src={crewAtSpn} onClick={this.handleOpen} width="300px" height="250px" />
                         </Col>
-                        <Col lg="3">
-                            <Image src={tiffBenAndJosh} onClick={this.handleOpen} fluid />
+                        <Col className="m-3" lg="3">
+                            <Image src={tiffBenAndJosh} onClick={this.handleOpen} width="300px" height="250px" />
+                        </Col>
+                        <Col className="m-3" lg="3">
+                            <Image src={captainInJail} onClick={this.handleOpen} width="300px" height="250px" />
                         </Col>
                     </Row>
                 </Container>
                 <Modal show={this.state.show} onHide={this.handleClose} size="lg" centered>
-                    <Modal.Header closeButton onClick={this.handleClose}>
+                    <Modal.Header className="styled-modal-header" closeButton onClick={this.handleClose}>
                     </Modal.Header>
-                    <Modal.Body>
+                    <Modal.Body className="styled-modal-body">
                         <Image src={this.state.imgSrc} fluid />
                     </Modal.Body>
                 </Modal>
